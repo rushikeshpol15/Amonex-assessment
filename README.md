@@ -83,6 +83,3 @@ This project showcases a fully responsive **Homepage**, **Job Details Page**, an
 > Optimized version of the user profile layout for mobile users with better stacking and touch-friendly spacing.
 
 ---
-
-## 📂 Project Structure
-
